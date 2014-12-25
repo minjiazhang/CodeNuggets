@@ -10,7 +10,7 @@ public class PalindromePartition {
     static final int isPal    = 1;
     static final int isNotPal = 2;
      
-    public List<List<String>> partition(String s) {
+    public ArrayList<ArrayList<String>> partition(String s) {
         ArrayList<ArrayList<String>> result = new ArrayList<ArrayList<String>>();
         ArrayList<String> partition = new ArrayList<String>();
         
