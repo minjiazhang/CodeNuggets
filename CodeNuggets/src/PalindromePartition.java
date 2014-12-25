@@ -6,7 +6,7 @@ public class PalindromePartition {
      * @param s: A string
      * @return: A list of lists of string
      */
-    //Test line
+     
     static final int isPal    = 1;
     static final int isNotPal = 2;
      
